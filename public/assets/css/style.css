@@ -1,0 +1,10 @@
+.radius-20{
+    border-radius: 20px !important;
+}
+
+.radius-10{
+    border-radius: 10px !important;
+}
+a,a:hover{
+    text-decoration: none;
+}
